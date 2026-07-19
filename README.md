@@ -54,7 +54,7 @@ The dashboard analyzes sales performance across:
 - `blinkit_sales_analysis.sql` — SQL queries used for data cleaning and analysis.
 - `blinkit_grocery_dashboard.pbix` — Power BI dashboard file.
 
-- ## Key Insights
+## Key Insights
 
 - Analyzed sales performance across different item types to identify higher- and lower-performing product categories.
 - Compared total sales across outlet location tiers to evaluate location-based sales performance.
